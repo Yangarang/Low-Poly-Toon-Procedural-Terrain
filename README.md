@@ -1,4 +1,4 @@
-# Final Project - Low-Poly Toon Procedural Terrain
+# Low-Poly Toon Procedural Terrain
 assignment-5-final-project-individual-jyang created by GitHub Classroom
 - Jonathan Yang
 - NYU ID: jy1045
