@@ -4,7 +4,7 @@ assignment-5-final-project-individual-jyang created by GitHub Classroom
 - NYU ID: jy1045
 
 ## Overview
-![Overview](screenshots/overview.png) 
+![Overview](screenshots/overview.PNG) 
 
 ## Controls
 
@@ -33,6 +33,7 @@ Top-Down Camera (Can be chosen by clicking TAB):
 <b>data files:</b> skybox/back.ppm and png, skybox/bottom.ppm and png, skybox/front.ppm and png, skybox/left.ppm and png, skybox/right.ppm and png, skybox/top.ppm and png, billboard.ppm, tree.off, water.ppm
 
 ### Compilation instructions
+<i> Will not work due to this being the public version and does not contain the libraries provided by the class</i>
 ```bash
 git clone --recursive https://github.com/nyu-cs-gy-6533-fall-2022/assignment-5-final-project-individual-jyang.git
 cd assignment-5-final-project-individual-jyang
